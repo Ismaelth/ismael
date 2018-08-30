@@ -1,0 +1,4 @@
+Los servidores se utilizan para subir paginas web al internet 
+hay unos servidores que son de pagos otros gratuitos, y tambien 
+sirve para subir la informacion que requiere mantener en la red.
+Estos son de diferente capicidad.
