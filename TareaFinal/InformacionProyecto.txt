@@ -1,7 +1,7 @@
  Rubro del sitio: Orientado a Marketing 
 
- Nombre del sitio: The Cars World
- Nombre de dominio: 
- Paleta de colores:https://color.adobe.com/create/color-wheel/
- Tipografía:https://fonts.google.com/
+ Nombre del sitio: Ventas de Autos "CARSWORLD"
+ Nombre de dominio:www.carsworld.com 
+ Paleta de colores:https://color.adobe.com/es/My-Color-Theme-color-theme-11269714/?showPublished=true
+ Tipografía:https://fonts.google.com/specimen/Oswald
  Boceto de página de inicio: Diagrama del proyecto en una pagina
