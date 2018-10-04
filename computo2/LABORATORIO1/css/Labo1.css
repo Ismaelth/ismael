@@ -1,15 +1,67 @@
- .row > div{
-	 padding: 10px;
-	 background: #ddd;
-	 color: blue;
-	 border: 1 px solid #fff;    
+*{
+	margin: 0;
+	padding: 0;
 }
-.row {
-	margin: 40px auto;
+.contenedor{
+	width: 1346px;
+	height: 1500px;
+	margin: 0.1em auto;
+	padding:0.1em;
 }
-h1 {
-   color: blue;
-   text-align: center;
-   font-family: arial;
-   font-size: 40 px;
+.Encabezado{
+	height: 5%;
+	background: #04FDC1;
+	margin: 1em;
+	text-align: center;
+}
+.Menu{
+	height: 3%;
+	background: #FDE604;
+	margin: 1em;
+	border-radius: 1em;
+	text-align: center;
+}
+.contenido{
+	height: 30%;
+	background: #74C8EC;
+	margin: 1em;
+	border-radius: 1em;
+}
+.Categorias{
+	height: 92%;
+	width:29%;
+	background: #0D9BA9;
+	margin: 1em;
+	float: left;
+	border-radius: 1em;
+	text-align: center;
+}
+.Ofertas{
+	height: 92%;
+	width:65%;
+	background: #0D9BA9;
+	margin: 1em;
+	float: right;
+	border-radius: 1em;
+	text-align: center;
+}
+.Titulo{
+	height:3%;
+	background:#04FDC1;
+	border-radius: 1em;
+	margin: 1em;
+	text-align: center;
+}
+.Autos{
+	height:40%;
+	background:#0D9BA9;
+	margin: 1em;
+	text-align: center;
+}
+.informacion{
+	height: 10%;
+	background:#74C8EC;
+	margin: 1em;
+	border-radius: 1em;
+	text-align: center;
 }
