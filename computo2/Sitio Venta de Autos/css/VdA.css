@@ -7,19 +7,12 @@
 .row{
 	margin: 40px auto;
 }
+
 .imagen1{
-	float: right;
+	float:right;
 }
 .imagen2{
-	float: left;
+	float:left;
 }
 
-.row1{
-	padding: 10px;
-	background: #ddd;
-	border: 1px solid #fff;
-	text-align: center;
-}
-.row1{
-	margin: 40px auto;
-}
+
